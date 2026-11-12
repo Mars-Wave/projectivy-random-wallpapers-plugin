@@ -1,0 +1,3 @@
+# projectivy-random-wallpapers-plugin
+
+A [Projectivy Launcher](https://github.com/spocky/miproja1) wallpaper plugin that shows a new picture from a local folder every time you return to the home screen, going through all of them in shuffled order before repeating. Install the APK, pick "Home Shuffle Wallpapers" under Projectivy's Settings › Appearance › Wallpapers, then copy your pictures into `/sdcard/Android/data/tv.homeshuffle.wallpaper/files/wallpapers/`. Built on spocky's [projectivy-plugin-wallpaper-provider](https://github.com/spocky/projectivy-plugin-wallpaper-provider) template (Apache-2.0).
