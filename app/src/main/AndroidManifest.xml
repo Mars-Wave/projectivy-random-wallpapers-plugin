@@ -10,6 +10,10 @@
         android:name="android.software.leanback"
         android:required="true" />
 
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+
     <queries>
         <package android:name="com.spocky.projengmenu" />
     </queries>

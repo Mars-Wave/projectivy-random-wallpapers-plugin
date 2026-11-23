@@ -5,4 +5,8 @@
     <string name="projectivy_not_installed">Warning, this plugin requires Projectivy Launcher which does not seem to be installed.</string>
     <string name="settings">Settings</string>
     <string name="setting_folder_title">Image folder</string>
+    <string name="setting_usage_title">Usage access</string>
+    <string name="setting_usage_granted">Granted: the wallpaper changes even when Projectivy keeps the plugin connected</string>
+    <string name="setting_usage_missing">Not granted (optional, makes the shuffle reliable). Settings &gt; Apps &gt; Special app access &gt; Usage access</string>
+    <string name="setting_usage_unsupported">Needs Android 10 or newer</string>
 </resources>
