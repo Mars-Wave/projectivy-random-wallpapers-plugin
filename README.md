@@ -1,5 +1,11 @@
 # projectivy-random-wallpapers-plugin
 
+[![Latest release](https://img.shields.io/github/v/release/Mars-Wave/projectivy-random-wallpapers-plugin)](https://github.com/Mars-Wave/projectivy-random-wallpapers-plugin/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Mars-Wave/projectivy-random-wallpapers-plugin/total)](https://github.com/Mars-Wave/projectivy-random-wallpapers-plugin/releases)
+![Platform: Android TV](https://img.shields.io/badge/platform-Android%20TV-3DDC84?logo=android&logoColor=white)
+[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-db61a2?logo=githubsponsors)](https://github.com/sponsors/Mars-Wave)
+
 A [Projectivy Launcher](https://github.com/spocky/miproja1) wallpaper plugin that shows a new picture from a local folder every time you return to the home screen, going through all of them in shuffled order before repeating. Install the APK, pick "Home Shuffle Wallpapers" under Projectivy's Settings › Appearance › Wallpapers, then copy your pictures into `/sdcard/Android/data/tv.homeshuffle.wallpaper/files/wallpapers/`. Built on spocky's [projectivy-plugin-wallpaper-provider](https://github.com/spocky/projectivy-plugin-wallpaper-provider) template (Apache-2.0).
 
 ## Examples from my home screen
